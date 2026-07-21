@@ -25,15 +25,16 @@ A Machine Learning web application built using **Streamlit** that predicts wheth
 
 ## 📁 Project Structure
 
-```
+```text
 Customer-Churn-Prediction/
 │
 ├── app.py
+├── notebook.ipynb
 ├── model.pkl
 ├── scaler.pkl
+├── customer_churn.csv
 ├── requirements.txt
-├── README.md
-└── customer_churn.csv
+└── README.md
 ```
 
 ---
